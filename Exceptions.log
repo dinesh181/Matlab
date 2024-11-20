@@ -1,0 +1,289 @@
+
+
+17-Nov-2024 17:48:32 Error using simulink.Simulation/start
+Error due to multiple causes.
+Error in simulink.ui.control.SimulationControls/startPauseContinueButtonPushed
+Error in simulink.ui.control.SimulationControls>@(o,e)obj.startPauseContinueButtonPushed()
+Caused by:
+    Error using simulink.sim.internal.SimControlNormalAccel/initializeImpl
+    Error evaluating parameter <a href="matlab:Simulink.internal.OpenBlockParamsDialog(['WaterFlowSubsystem/WaterFlowSubsystem/Compare To Constant'],'const');">'const'</a> in '<a href="matlab:open_and_hilite_hyperlink ('WaterFlowSubsystem/WaterFlowSubsystem/Compare To Constant','error')">WaterFlowSubsystem/WaterFlowSubsystem/Compare To Constant</a>'
+    
+    Error in simulink.Simulation/initialize
+    
+    Error in simulink.Simulation/start
+    
+    Error in simulink.ui.control.SimulationControls/startPauseContinueButtonPushed
+    
+    Error in simulink.ui.control.SimulationControls>@(o,e)obj.startPauseContinueButtonPushed()
+        Error using simulink.sim.internal.SimControlNormalAccel/initializeImpl
+        Unrecognized function or variable 'N_u_limit'.
+        
+        Error in simulink.Simulation/initialize
+        
+        Error in simulink.Simulation/start
+        
+        Error in simulink.ui.control.SimulationControls/startPauseContinueButtonPushed
+        
+        Error in simulink.ui.control.SimulationControls>@(o,e)obj.startPauseContinueButtonPushed()
+            Error using simulink.sim.internal.SimControlNormalAccel/initializeImpl
+            Variable 'N_u_limit' has been deleted from base workspace.
+            
+            Error in simulink.Simulation/initialize
+            
+            Error in simulink.Simulation/start
+            
+            Error in simulink.ui.control.SimulationControls/startPauseContinueButtonPushed
+            
+            Error in simulink.ui.control.SimulationControls>@(o,e)obj.startPauseContinueButtonPushed()
+            Suggested Actions:
+                • Load a file into base workspace. - <a href="matlab:slprivate('robustVarRefHotlink_cb', 'loadFile', 'WaterFlowSubsystem', 'N_u_limit')">Fix</a>
+                • Create a new variable. - <a href="matlab:slprivate('robustVarRefHotlink_cb', 'createEntry', 'N_u_limit', 'WaterFlowSubsystem', 'base workspace', 'normal', 'const', 'WaterFlowSubsystem/WaterFlowSubsystem/Compare To Constant', ' ')">Fix</a>
+    Error using simulink.sim.internal.SimControlNormalAccel/initializeImpl
+    Error evaluating parameter <a href="matlab:Simulink.internal.OpenBlockParamsDialog(['WaterFlowSubsystem/WaterFlowSubsystem/Compare To Constant1'],'const');">'const'</a> in '<a href="matlab:open_and_hilite_hyperlink ('WaterFlowSubsystem/WaterFlowSubsystem/Compare To Constant1','error')">WaterFlowSubsystem/WaterFlowSubsystem/Compare To Constant1</a>'
+    
+    Error in simulink.Simulation/initialize
+    
+    Error in simulink.Simulation/start
+    
+    Error in simulink.ui.control.SimulationControls/startPauseContinueButtonPushed
+    
+    Error in simulink.ui.control.SimulationControls>@(o,e)obj.startPauseContinueButtonPushed()
+        Error using simulink.sim.internal.SimControlNormalAccel/initializeImpl
+        Unrecognized function or variable 'N_l_limit'.
+        
+        Error in simulink.Simulation/initialize
+        
+        Error in simulink.Simulation/start
+        
+        Error in simulink.ui.control.SimulationControls/startPauseContinueButtonPushed
+        
+        Error in simulink.ui.control.SimulationControls>@(o,e)obj.startPauseContinueButtonPushed()
+            Error using simulink.sim.internal.SimControlNormalAccel/initializeImpl
+            Variable 'N_l_limit' has been deleted from base workspace.
+            
+            Error in simulink.Simulation/initialize
+            
+            Error in simulink.Simulation/start
+            
+            Error in simulink.ui.control.SimulationControls/startPauseContinueButtonPushed
+            
+            Error in simulink.ui.control.SimulationControls>@(o,e)obj.startPauseContinueButtonPushed()
+            Suggested Actions:
+                • Load a file into base workspace. - <a href="matlab:slprivate('robustVarRefHotlink_cb', 'loadFile', 'WaterFlowSubsystem', 'N_l_limit')">Fix</a>
+                • Create a new variable. - <a href="matlab:slprivate('robustVarRefHotlink_cb', 'createEntry', 'N_l_limit', 'WaterFlowSubsystem', 'base workspace', 'normal', 'const', 'WaterFlowSubsystem/WaterFlowSubsystem/Compare To Constant1', ' ')">Fix</a>
+
+17-Nov-2024 17:48:36 Error using simulink.Simulation/start
+Error due to multiple causes.
+Error in simulink.ui.control.SimulationControls/startPauseContinueButtonPushed
+Error in simulink.ui.control.SimulationControls>@(o,e)obj.startPauseContinueButtonPushed()
+Caused by:
+    Error using simulink.sim.internal.SimControlNormalAccel/initializeImpl
+    Error evaluating parameter <a href="matlab:Simulink.internal.OpenBlockParamsDialog(['WaterFlowSubsystem/WaterFlowSubsystem/Compare To Constant'],'const');">'const'</a> in '<a href="matlab:open_and_hilite_hyperlink ('WaterFlowSubsystem/WaterFlowSubsystem/Compare To Constant','error')">WaterFlowSubsystem/WaterFlowSubsystem/Compare To Constant</a>'
+    
+    Error in simulink.Simulation/initialize
+    
+    Error in simulink.Simulation/start
+    
+    Error in simulink.ui.control.SimulationControls/startPauseContinueButtonPushed
+    
+    Error in simulink.ui.control.SimulationControls>@(o,e)obj.startPauseContinueButtonPushed()
+        Error using simulink.sim.internal.SimControlNormalAccel/initializeImpl
+        Unrecognized function or variable 'N_u_limit'.
+        
+        Error in simulink.Simulation/initialize
+        
+        Error in simulink.Simulation/start
+        
+        Error in simulink.ui.control.SimulationControls/startPauseContinueButtonPushed
+        
+        Error in simulink.ui.control.SimulationControls>@(o,e)obj.startPauseContinueButtonPushed()
+            Error using simulink.sim.internal.SimControlNormalAccel/initializeImpl
+            Variable 'N_u_limit' has been deleted from base workspace.
+            
+            Error in simulink.Simulation/initialize
+            
+            Error in simulink.Simulation/start
+            
+            Error in simulink.ui.control.SimulationControls/startPauseContinueButtonPushed
+            
+            Error in simulink.ui.control.SimulationControls>@(o,e)obj.startPauseContinueButtonPushed()
+            Suggested Actions:
+                • Load a file into base workspace. - <a href="matlab:slprivate('robustVarRefHotlink_cb', 'loadFile', 'WaterFlowSubsystem', 'N_u_limit')">Fix</a>
+                • Create a new variable. - <a href="matlab:slprivate('robustVarRefHotlink_cb', 'createEntry', 'N_u_limit', 'WaterFlowSubsystem', 'base workspace', 'normal', 'const', 'WaterFlowSubsystem/WaterFlowSubsystem/Compare To Constant', ' ')">Fix</a>
+    Error using simulink.sim.internal.SimControlNormalAccel/initializeImpl
+    Error evaluating parameter <a href="matlab:Simulink.internal.OpenBlockParamsDialog(['WaterFlowSubsystem/WaterFlowSubsystem/Compare To Constant1'],'const');">'const'</a> in '<a href="matlab:open_and_hilite_hyperlink ('WaterFlowSubsystem/WaterFlowSubsystem/Compare To Constant1','error')">WaterFlowSubsystem/WaterFlowSubsystem/Compare To Constant1</a>'
+    
+    Error in simulink.Simulation/initialize
+    
+    Error in simulink.Simulation/start
+    
+    Error in simulink.ui.control.SimulationControls/startPauseContinueButtonPushed
+    
+    Error in simulink.ui.control.SimulationControls>@(o,e)obj.startPauseContinueButtonPushed()
+        Error using simulink.sim.internal.SimControlNormalAccel/initializeImpl
+        Unrecognized function or variable 'N_l_limit'.
+        
+        Error in simulink.Simulation/initialize
+        
+        Error in simulink.Simulation/start
+        
+        Error in simulink.ui.control.SimulationControls/startPauseContinueButtonPushed
+        
+        Error in simulink.ui.control.SimulationControls>@(o,e)obj.startPauseContinueButtonPushed()
+            Error using simulink.sim.internal.SimControlNormalAccel/initializeImpl
+            Variable 'N_l_limit' has been deleted from base workspace.
+            
+            Error in simulink.Simulation/initialize
+            
+            Error in simulink.Simulation/start
+            
+            Error in simulink.ui.control.SimulationControls/startPauseContinueButtonPushed
+            
+            Error in simulink.ui.control.SimulationControls>@(o,e)obj.startPauseContinueButtonPushed()
+            Suggested Actions:
+                • Load a file into base workspace. - <a href="matlab:slprivate('robustVarRefHotlink_cb', 'loadFile', 'WaterFlowSubsystem', 'N_l_limit')">Fix</a>
+                • Create a new variable. - <a href="matlab:slprivate('robustVarRefHotlink_cb', 'createEntry', 'N_l_limit', 'WaterFlowSubsystem', 'base workspace', 'normal', 'const', 'WaterFlowSubsystem/WaterFlowSubsystem/Compare To Constant1', ' ')">Fix</a>
+
+17-Nov-2024 17:48:42 Error using simulink.Simulation/start
+Error due to multiple causes.
+Error in simulink.ui.control.SimulationControls/startPauseContinueButtonPushed
+Error in simulink.ui.control.SimulationControls>@(o,e)obj.startPauseContinueButtonPushed()
+Caused by:
+    Error using simulink.sim.internal.SimControlNormalAccel/initializeImpl
+    Error evaluating parameter <a href="matlab:Simulink.internal.OpenBlockParamsDialog(['WaterFlowSubsystem/WaterFlowSubsystem/Compare To Constant'],'const');">'const'</a> in '<a href="matlab:open_and_hilite_hyperlink ('WaterFlowSubsystem/WaterFlowSubsystem/Compare To Constant','error')">WaterFlowSubsystem/WaterFlowSubsystem/Compare To Constant</a>'
+    
+    Error in simulink.Simulation/initialize
+    
+    Error in simulink.Simulation/start
+    
+    Error in simulink.ui.control.SimulationControls/startPauseContinueButtonPushed
+    
+    Error in simulink.ui.control.SimulationControls>@(o,e)obj.startPauseContinueButtonPushed()
+        Error using simulink.sim.internal.SimControlNormalAccel/initializeImpl
+        Unrecognized function or variable 'N_u_limit'.
+        
+        Error in simulink.Simulation/initialize
+        
+        Error in simulink.Simulation/start
+        
+        Error in simulink.ui.control.SimulationControls/startPauseContinueButtonPushed
+        
+        Error in simulink.ui.control.SimulationControls>@(o,e)obj.startPauseContinueButtonPushed()
+            Error using simulink.sim.internal.SimControlNormalAccel/initializeImpl
+            Variable 'N_u_limit' has been deleted from base workspace.
+            
+            Error in simulink.Simulation/initialize
+            
+            Error in simulink.Simulation/start
+            
+            Error in simulink.ui.control.SimulationControls/startPauseContinueButtonPushed
+            
+            Error in simulink.ui.control.SimulationControls>@(o,e)obj.startPauseContinueButtonPushed()
+            Suggested Actions:
+                • Load a file into base workspace. - <a href="matlab:slprivate('robustVarRefHotlink_cb', 'loadFile', 'WaterFlowSubsystem', 'N_u_limit')">Fix</a>
+                • Create a new variable. - <a href="matlab:slprivate('robustVarRefHotlink_cb', 'createEntry', 'N_u_limit', 'WaterFlowSubsystem', 'base workspace', 'normal', 'const', 'WaterFlowSubsystem/WaterFlowSubsystem/Compare To Constant', ' ')">Fix</a>
+    Error using simulink.sim.internal.SimControlNormalAccel/initializeImpl
+    Error evaluating parameter <a href="matlab:Simulink.internal.OpenBlockParamsDialog(['WaterFlowSubsystem/WaterFlowSubsystem/Compare To Constant1'],'const');">'const'</a> in '<a href="matlab:open_and_hilite_hyperlink ('WaterFlowSubsystem/WaterFlowSubsystem/Compare To Constant1','error')">WaterFlowSubsystem/WaterFlowSubsystem/Compare To Constant1</a>'
+    
+    Error in simulink.Simulation/initialize
+    
+    Error in simulink.Simulation/start
+    
+    Error in simulink.ui.control.SimulationControls/startPauseContinueButtonPushed
+    
+    Error in simulink.ui.control.SimulationControls>@(o,e)obj.startPauseContinueButtonPushed()
+        Error using simulink.sim.internal.SimControlNormalAccel/initializeImpl
+        Unrecognized function or variable 'N_l_limit'.
+        
+        Error in simulink.Simulation/initialize
+        
+        Error in simulink.Simulation/start
+        
+        Error in simulink.ui.control.SimulationControls/startPauseContinueButtonPushed
+        
+        Error in simulink.ui.control.SimulationControls>@(o,e)obj.startPauseContinueButtonPushed()
+            Error using simulink.sim.internal.SimControlNormalAccel/initializeImpl
+            Variable 'N_l_limit' has been deleted from base workspace.
+            
+            Error in simulink.Simulation/initialize
+            
+            Error in simulink.Simulation/start
+            
+            Error in simulink.ui.control.SimulationControls/startPauseContinueButtonPushed
+            
+            Error in simulink.ui.control.SimulationControls>@(o,e)obj.startPauseContinueButtonPushed()
+            Suggested Actions:
+                • Load a file into base workspace. - <a href="matlab:slprivate('robustVarRefHotlink_cb', 'loadFile', 'WaterFlowSubsystem', 'N_l_limit')">Fix</a>
+                • Create a new variable. - <a href="matlab:slprivate('robustVarRefHotlink_cb', 'createEntry', 'N_l_limit', 'WaterFlowSubsystem', 'base workspace', 'normal', 'const', 'WaterFlowSubsystem/WaterFlowSubsystem/Compare To Constant1', ' ')">Fix</a>
+
+17-Nov-2024 17:54:24 Error using simulink.Simulation/start
+Error due to multiple causes.
+Error in simulink.ui.control.SimulationControls/startPauseContinueButtonPushed
+Error in simulink.ui.control.SimulationControls>@(o,e)obj.startPauseContinueButtonPushed()
+Caused by:
+    Error using simulink.sim.internal.SimControlNormalAccel/initializeImpl
+    Error evaluating parameter <a href="matlab:Simulink.internal.OpenBlockParamsDialog(['WaterFlowSubsystem/WaterFlowSubsystem/Compare To Constant'],'const');">'const'</a> in '<a href="matlab:open_and_hilite_hyperlink ('WaterFlowSubsystem/WaterFlowSubsystem/Compare To Constant','error')">WaterFlowSubsystem/WaterFlowSubsystem/Compare To Constant</a>'
+    
+    Error in simulink.Simulation/initialize
+    
+    Error in simulink.Simulation/start
+    
+    Error in simulink.ui.control.SimulationControls/startPauseContinueButtonPushed
+    
+    Error in simulink.ui.control.SimulationControls>@(o,e)obj.startPauseContinueButtonPushed()
+        Error using simulink.sim.internal.SimControlNormalAccel/initializeImpl
+        Unrecognized function or variable 'N_u_limit'.
+        
+        Error in simulink.Simulation/initialize
+        
+        Error in simulink.Simulation/start
+        
+        Error in simulink.ui.control.SimulationControls/startPauseContinueButtonPushed
+        
+        Error in simulink.ui.control.SimulationControls>@(o,e)obj.startPauseContinueButtonPushed()
+            Error using simulink.sim.internal.SimControlNormalAccel/initializeImpl
+            Variable 'N_u_limit' has been deleted from base workspace.
+            
+            Error in simulink.Simulation/initialize
+            
+            Error in simulink.Simulation/start
+            
+            Error in simulink.ui.control.SimulationControls/startPauseContinueButtonPushed
+            
+            Error in simulink.ui.control.SimulationControls>@(o,e)obj.startPauseContinueButtonPushed()
+            Suggested Actions:
+                • Load a file into base workspace. - <a href="matlab:slprivate('robustVarRefHotlink_cb', 'loadFile', 'WaterFlowSubsystem', 'N_u_limit')">Fix</a>
+                • Create a new variable. - <a href="matlab:slprivate('robustVarRefHotlink_cb', 'createEntry', 'N_u_limit', 'WaterFlowSubsystem', 'base workspace', 'normal', 'const', 'WaterFlowSubsystem/WaterFlowSubsystem/Compare To Constant', ' ')">Fix</a>
+    Error using simulink.sim.internal.SimControlNormalAccel/initializeImpl
+    Error evaluating parameter <a href="matlab:Simulink.internal.OpenBlockParamsDialog(['WaterFlowSubsystem/WaterFlowSubsystem/Compare To Constant1'],'const');">'const'</a> in '<a href="matlab:open_and_hilite_hyperlink ('WaterFlowSubsystem/WaterFlowSubsystem/Compare To Constant1','error')">WaterFlowSubsystem/WaterFlowSubsystem/Compare To Constant1</a>'
+    
+    Error in simulink.Simulation/initialize
+    
+    Error in simulink.Simulation/start
+    
+    Error in simulink.ui.control.SimulationControls/startPauseContinueButtonPushed
+    
+    Error in simulink.ui.control.SimulationControls>@(o,e)obj.startPauseContinueButtonPushed()
+        Error using simulink.sim.internal.SimControlNormalAccel/initializeImpl
+        Unrecognized function or variable 'N_l_limit'.
+        
+        Error in simulink.Simulation/initialize
+        
+        Error in simulink.Simulation/start
+        
+        Error in simulink.ui.control.SimulationControls/startPauseContinueButtonPushed
+        
+        Error in simulink.ui.control.SimulationControls>@(o,e)obj.startPauseContinueButtonPushed()
+            Error using simulink.sim.internal.SimControlNormalAccel/initializeImpl
+            Variable 'N_l_limit' has been deleted from base workspace.
+            
+            Error in simulink.Simulation/initialize
+            
+            Error in simulink.Simulation/start
+            
+            Error in simulink.ui.control.SimulationControls/startPauseContinueButtonPushed
+            
+            Error in simulink.ui.control.SimulationControls>@(o,e)obj.startPauseContinueButtonPushed()
+            Suggested Actions:
+                • Load a file into base workspace. - <a href="matlab:slprivate('robustVarRefHotlink_cb', 'loadFile', 'WaterFlowSubsystem', 'N_l_limit')">Fix</a>
+                • Create a new variable. - <a href="matlab:slprivate('robustVarRefHotlink_cb', 'createEntry', 'N_l_limit', 'WaterFlowSubsystem', 'base workspace', 'normal', 'const', 'WaterFlowSubsystem/WaterFlowSubsystem/Compare To Constant1', ' ')">Fix</a>
